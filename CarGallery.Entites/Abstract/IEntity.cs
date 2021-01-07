@@ -6,5 +6,6 @@ namespace CarGallery.Entites.Abstract
 {
     public interface IEntity
     {
+
     }
 }
